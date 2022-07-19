@@ -1,1 +1,1 @@
-# calculator-v1
+# Simple calculator Project
